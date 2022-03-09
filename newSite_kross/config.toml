@@ -3,7 +3,7 @@ baseURL = "http://demo.gethugothemes.com/kross/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Katie Burgess"
 
 # css plugins
 [[params.plugins.css]]
